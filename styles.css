@@ -1,0 +1,15 @@
+.pokemon-id {
+    background-color: white;
+    border-radius: 5px;
+    
+}
+
+body {
+    background: #EFEFBB;
+    background: -webkit-linear-gradient(to right, #D4D3DD, #EFEFBB);
+    background: linear-gradient(to right, #D4D3DD, #EFEFBB);
+}
+
+.card {
+    cursor: pointer;
+}
